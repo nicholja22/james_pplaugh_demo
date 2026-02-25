@@ -1,0 +1,7 @@
+{
+  "name": "Pay-Per-Laugh: Theater Edition",
+  "description": "A high-fidelity facial expression tracking app that charges users per smile, mimicking the famous Cannes-winning campaign. Features real-time CV detection, billing logic, and theater-mode UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
